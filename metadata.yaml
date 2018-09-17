@@ -1,0 +1,31 @@
+_repo: William-Blake-Painter-and-Poet_52300
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Garnett, Richard
+    alias: Trent, A. G.
+    birthdate: 1835
+    deathdate: 1906
+    gutenberg_agent_id: '3305'
+    url: http://www.gutenberg.org/2009/agents/3305
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Garnett_%28writer%29
+description: ''
+gutenberg_issued: '2016-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52300'
+  lccn: '10012626'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poets, English -- 18th century -- Biography'
+- !lcc 'PR'
+- !lcsh 'Poets, English -- 19th century -- Biography'
+- !lcsh 'Blake, William, 1757-1827'
+- !lcsh 'Artists -- Great Britain -- Biography'
+- !lcc 'ND'
+- GITenberg
+title: William Blake, Painter and Poet
+url: http://www.gutenberg.org/ebooks/52300
